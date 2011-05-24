@@ -25,7 +25,7 @@ You can install this utility by symlinking this file to `/usr/bin` or similar.
 
 The only dependency is [Node.js][node].
 
-JSLintNode.js is licensed under the terms of the GPLv3.
+JSLintNode.js is licensed under the terms of the BSD license.
 
 [jslint]: http://www.jslint.com
 [jslintrepo]: http://github.com/douglascrockford/JSLint
